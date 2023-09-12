@@ -1,16 +1,15 @@
-### Hi there 👋
+# Helen Luong
 
-<!--
-**tdhluong/tdhluong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Helen+Luong+;2rd+year+Computer+Science+%40+York+;Looking+for+next+internship+%F0%9F%91%80)](https://git.io/typing-svg)
+===========================
 
-Here are some ideas to get you started:
+I am a 2nd-year Computer Science Co-op Student at York University with interests in software design and web development. <img src="https://media.giphy.com/media/JWybLzXs7Hn0JKhSji/giphy.gif" width="100">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📫  I'm based in Toronto, Canada.
+* 🖥️  See my portfolio at [https://tdhluong.github.io/my-website/](https://tdhluong.github.io/my-website/)
+* 💬  You can contact me at [ltdiemhang00@gmail.com](mailto:ltdiemhang00@gmail.com)
+
+### Socials
+
+<p align="left"> <a href="https://github.com/tdhluong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/-helen-luong-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
