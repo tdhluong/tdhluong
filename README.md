@@ -6,7 +6,7 @@
 I am a 2nd-year Computer Science Co-op Student at York University with interests in software design and web development. <img src="https://media.giphy.com/media/JWybLzXs7Hn0JKhSji/giphy.gif" width="100">
 
 * 📫  I'm based in Toronto, Canada.
-* 🖥️  See my portfolio at [https://tdhluong.github.io/my-website/](https://tdhluong.github.io/my-website/)
+* 🖥️  See my portfolio at [https://tdhluong.github.io](https://tdhluong.github.io)
 * 💬  You can contact me at [ltdiemhang00@gmail.com](mailto:ltdiemhang00@gmail.com)
 
 ### Socials
